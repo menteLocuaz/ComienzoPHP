@@ -1,3 +1,8 @@
 1-Navegador web
 2-Editor de código
-3-
+3-Xampp
+-----------------
+- node.js
+-vscode , nvim
+-composer
+-paquetes de php en packagist 
